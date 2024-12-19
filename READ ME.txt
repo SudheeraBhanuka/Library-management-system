@@ -1,0 +1,4 @@
+default usename: admin
+default password: admin
+
+if database didn't work, change the connection string(DBconnection.cs)
