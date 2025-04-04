@@ -1,0 +1,20 @@
+
+
+
+--Library Management System--
+
+Tasks:  -interfaces
+	-Add & delete books
+	-Issue books
+	-Return books
+	-Login & register
+	-Add & delete users
+	-Database
+
+Interfaces: 
+	-login page
+	-Register page
+	-Dashboard
+	-View all books page(add books page, delete books page)
+	-View all users page(add users page, delete users page)
+	-Issue & return page(issue book page, return book page)

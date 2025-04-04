@@ -1,0 +1,22 @@
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\bin\Debug\net8.0-windows\LibraryManagement System.exe
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\bin\Debug\net8.0-windows\LibraryManagement System.deps.json
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\bin\Debug\net8.0-windows\LibraryManagement System.runtimeconfig.json
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\bin\Debug\net8.0-windows\LibraryManagement System.dll
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\bin\Debug\net8.0-windows\LibraryManagement System.pdb
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System_MarkupCompile.cache
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System_MarkupCompile.lref
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.g.resources
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.AssemblyInfoInputs.cache
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.AssemblyInfo.cs
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.csproj.CoreCompileInputs.cache
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.dll
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\refint\LibraryManagement System.dll
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.pdb
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\LibraryManagement System.genruntimeconfig.cache
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\ref\LibraryManagement System.dll
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\IssueReturn.g.cs
+C:\Users\sudhe\OneDrive\Desktop\GUI CW\LibraryManagement System\obj\Debug\net8.0-windows\IssueReturn.baml
