@@ -14,7 +14,8 @@ namespace GUI_CW
     {
         public SqlConnection connectDB()
         {
-            string con_string = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\94710\\Desktop\\GUI CW\\GUI CW\\bin\\Debug\\TestELibrary.mdf\";Integrated Security=True;Connect Timeout=30";
+            //Change the Connection String ("con_string")
+            string con_string = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"TestELibrary.mdf\";Integrated Security=True;Connect Timeout=30";
             SqlConnection con = new SqlConnection(con_string);
             return con;
         }
